@@ -1,1 +1,1 @@
-console.log('run finished');
+console.log('run sorted');
